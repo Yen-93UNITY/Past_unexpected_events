@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - FrontBG
+  - Background
+  - BackgroundDesign
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundDesign
+    uniqueID: 2452553443
+    locked: 0
+  - name: Backgroundblock
+    uniqueID: 1106175009
+    locked: 0
+  - name: BackgroundInfront
+    uniqueID: 1977250729
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2812823895
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 4106189485
+    locked: 0
+  - name: BGBlockPlayer
+    uniqueID: 2685647333
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3104180967
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 1986116989
+    locked: 0
