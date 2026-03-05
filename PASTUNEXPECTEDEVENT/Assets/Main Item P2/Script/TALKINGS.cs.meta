@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c316e1fec61059a4f80c26df5b3b46db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialoguePanel: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  - leftImage: {instanceID: 0}
+  - rightImage: {instanceID: 0}
+  - leftCanvas: {instanceID: 0}
+  - rightCanvas: {instanceID: 0}
+  - talkingAudio: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
